@@ -29,16 +29,16 @@ All graphics are made by me.<br>
 ## Screenshots & GIFs
 <div style="text-align: center;">
     <a href="http://imgur.com/XESEO9o" target="_blank">
-        <img src="http://imgur.com/XESEO9o" width="400" style="max-width:95%;">
+        <img src="http://imgur.com/XESEO9o">
     </a> <br>
     <a href="http://imgur.com/GKYb9jH" target="_blank">
-        <img src="http://imgur.com/GKYb9jH" width="400" style="max-width:95%;">
+        <img src="http://imgur.com/GKYb9jH">
     </a> <br>
     <a href="http://imgur.com/yB9KRYd" target="_blank">
-        <img src="http://imgur.com/yB9KRYd" width="400" style="max-width:95%;">
+        <img src="http://imgur.com/yB9KRYd">
     </a> <br>
     <a href="http://imgur.com/XeCDFtc" target="_blank">
-        <img src="http://imgur.com/XeCDFtc" width="400" style="max-width:95%;">
+        <img src="http://imgur.com/XeCDFtc">
     </a>
 </div>
 
