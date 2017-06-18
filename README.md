@@ -17,7 +17,7 @@ All graphics are made by me.<br>
 * Right click flags
 * Time Counter
 * Highest Score
-<br>
+
 * First click is always safe
 * On first click it is discovered 5 safe squares, so, the player won't spam randomly
 * You can press on a discovered number to see which are the near squares
