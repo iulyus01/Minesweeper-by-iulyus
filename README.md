@@ -1,8 +1,8 @@
 # Minesweeper-by-iulyus
 This is a game made as a challenge between
 
-<a href="http://github.com/iulyus01" target="_blank">iulyus01</a>, 
-<a href="https://github.com/artur99/a9-minesweeper">me</a> and 
+<a href="http://github.com/iulyus01" target="_blank">me</a>, 
+<a href="https://github.com/artur99/a9-minesweeper">artur99</a> and 
 <a href="http://github.com/pmaxim98" target="_blank">pmaxim98</a>.
 
 ## About
