@@ -28,19 +28,16 @@ All graphics are made by me.<br>
  
 ## Screenshots & GIFs
 <div style="text-align: center;">
-    <a href="http://imgur.com/XESEO9o" target="_blank">
-        <img src="http://imgur.com/XESEO9o">
+    <a href="http://i.imgur.com/XESEO9o.png" target="_blank" width="400" style="max-width:95%;">
+        <img src="http://i.imgur.com/XESEO9o.png">
     </a> <br>
-    <a href="http://imgur.com/GKYb9jH" target="_blank">
-        <img src="http://imgur.com/GKYb9jH">
+    <a href="http://i.imgur.com/GKYb9jH.png" target="_blank" width="400" style="max-width:95%;">
+        <img src="http://i.imgur.com/GKYb9jH.png">
     </a> <br>
-    <a href="http://imgur.com/yB9KRYd" target="_blank">
-        <img src="http://imgur.com/yB9KRYd">
+    <a href="http://i.imgur.com/yB9KRYd.png" target="_blank" width="400" style="max-width:95%;">
+        <img src="http://i.imgur.com/yB9KRYd.png">
     </a> <br>
-    <a href="http://imgur.com/XeCDFtc" target="_blank">
-        <img src="http://imgur.com/XeCDFtc">
+    <a href="http://i.imgur.com/FGcZr1N.gif" target="_blank" width="400" style="max-width:95%;">
+        <img src="http://i.imgur.com/FGcZr1N.gif">
     </a>
 </div>
-
-## Installation
-Just clone the repo and run `game/index.html` in your browser.
