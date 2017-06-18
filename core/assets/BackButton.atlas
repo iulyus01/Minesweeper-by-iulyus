@@ -1,0 +1,20 @@
+
+BackButton.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BackButton
+  rotate: false
+  xy: 2, 106
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+BackButtonPressed
+  rotate: false
+  xy: 2, 2
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1

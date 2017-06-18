@@ -1,0 +1,111 @@
+
+SquareForm.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1Bomb
+  rotate: false
+  xy: 4, 812
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+2Bombs
+  rotate: false
+  xy: 4, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+3Bombs
+  rotate: false
+  xy: 812, 1620
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+4Bombs
+  rotate: false
+  xy: 1216, 1620
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+5Bombs
+  rotate: false
+  xy: 408, 1216
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+6Bombs
+  rotate: false
+  xy: 812, 1216
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+7Bombs
+  rotate: false
+  xy: 408, 1620
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+8Bombs
+  rotate: false
+  xy: 408, 812
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Bomb
+  rotate: false
+  xy: 812, 812
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ClickedBomb
+  rotate: false
+  xy: 4, 408
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Empty
+  rotate: false
+  xy: 4, 1216
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Marked
+  rotate: false
+  xy: 1620, 1620
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Undiscovered
+  rotate: false
+  xy: 1216, 1216
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Unknown
+  rotate: false
+  xy: 4, 1620
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+WrongMarked
+  rotate: false
+  xy: 408, 408
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
